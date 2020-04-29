@@ -12,7 +12,7 @@ Using Flutter &amp; Firebase
 ## App Flow
 ![GIT](https://user-images.githubusercontent.com/46351318/80461205-8c285b00-8952-11ea-8349-9fb56b953fae.png)
 
-App Features
+<h3>App Features</h3>
   
 -- Firebase Authentication  
 -- Firebase Cloud Messaging  
