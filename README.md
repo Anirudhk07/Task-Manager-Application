@@ -36,4 +36,8 @@ To read from your Collection
 ```
 
 # Authors
-[Anirudh Kolwadkar](https://github.com/Anirudhk07)
+[Anirudh Kolwadkar](https://github.com/Anirudhk07)<br>
+[Suyog Pawar](https://github.com/sUyoG-002)<br>
+[Vedant Patni](https://github.com/vedantpatni)
+
+
